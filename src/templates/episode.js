@@ -28,9 +28,9 @@ export default function Template({
       <Player audioSrc={mdx.frontmatter.audio}></Player>
       <EpisodeLinks
       direct={mdx.frontmatter.audio||"/"}
-      apple={mdx.frontmatter.apple||"https://podcasts.apple.com/gb/podcast/hear-this-idea/id1496501781"}
-      spotify={mdx.frontmatter.spotify||"https://open.spotify.com/show/442fxr9pe0tbDtqEikODch"}
-      google={mdx.frontmatter.google ||"https://podcasts.google.com/?feed=aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9oZWFyLXRoaXMtaWRlYQ"} />
+      apple={mdx.frontmatter.apple||"https://anchor.fm/boobaeblog"}
+      spotify={mdx.frontmatter.spotify||"https://open.spotify.com/show/4e2OBUBo3pc4Y41RwFakT4"}
+      google={mdx.frontmatter.google ||"https://pca.st/gk7xambi"} />
       <div className="writeup">
         <MDXProvider components={components}>
           <MDXRenderer>{mdx.body}</MDXRenderer>
