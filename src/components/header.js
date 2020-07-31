@@ -11,10 +11,10 @@ const Header = ({ siteTitle }) => {
     <header>
       <div className="menu-wrapper">
         <Link to="/" className="link-plain">
-          <h1 className="title">BPODE</h1>
+          <h1 className="title">BPOD</h1>
         </Link>
         <Link to="/" className="push">
-          About
+          Hey!
         </Link>{" "}
         <span className="menu-slash">/</span>{" "}
         <Link to="/episodes">Episodes</Link>

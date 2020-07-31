@@ -20,7 +20,7 @@ const IndexPage = () => (
     <div className="listen-container">
       <a
         className="listen"
-        href="https://open.spotify.com/show/442fxr9pe0tbDtqEikODch"
+        href="https://open.spotify.com/show/4e2OBUBo3pc4Y41RwFakT4"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -28,7 +28,7 @@ const IndexPage = () => (
       </a>
       <a
         className="listen"
-        href="https://pca.st/5bclatq6"
+        href="https://anchor.fm/boobaeblog"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -36,19 +36,19 @@ const IndexPage = () => (
       </a>
       <a
         className="listen"
-        href="https://podcasts.apple.com/gb/podcast/hear-this-idea/id1496501781"
+        href="https://www.breaker.audio/meet-boobae"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Apple Podcasts
+        Beaker Podcasts
       </a>
       <a
         className="listen"
-        href="https://podcasts.google.com/?feed=aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9oZWFyLXRoaXMtaWRlYQ"
+        href="https://pca.st/gk7xambi"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Google Podcasts
+        Pockect Casts
       </a>
     </div>
     <h2>Social media</h2>
@@ -64,14 +64,14 @@ const IndexPage = () => (
       </a>{" "}
       or just email us at{" "}
       <span className="obfuscate">
-        moc.aedisi<span></span>htraeh@olleh
+        hello<span></span>@bpode.com
       </span>
       . You can also find us on Facebook and Twitter:
     </p>
     <div className="listen-container">
       <a
         className="listen"
-        href="https://www.facebook.com/hearthisidea"
+        href="https://www.facebook.com/bpode"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -79,7 +79,7 @@ const IndexPage = () => (
       </a>
       <a
         className="listen"
-        href="https://twitter.com/hearthisidea"
+        href="https://twitter.com/bpode"
         target="_blank"
         rel="noopener noreferrer"
       >

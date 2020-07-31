@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Hear This Idea`,
-    description: `New thinking from top academics at the University of Cambridge and beyond.`,
-    author: `Fin Moorhouse and Luca Righetti`,
+    title: `BPODE`,
+    description: `New thinking from top academics and beyond.`,
+    author: `Will and Presh`,
     url:`https://www.bpode.com`,
     twitterUsername: `@bpode`,
     image: "/meta-image.jpg",
@@ -50,11 +50,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hear This Idea`,
-        short_name: `HTI`,
+        name: `BPODE`,
+        short_name: `BPODE`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#23abe2`,
+        theme_color: `#23abe2`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
