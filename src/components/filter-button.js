@@ -6,7 +6,7 @@ const FilterButton = props => {
       className="listen library-filter-button"
       style={
         props.FilterValue
-          ? { background: "rgba(255, 227, 67, 0.82)" }
+          ? { background: "#23abe2" }
           : { background: "#bbbbbb" }
       }
       onClick={props.handler}

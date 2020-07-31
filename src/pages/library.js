@@ -72,8 +72,8 @@ const LibraryPage = ({
       </p>
        <h3>Categories:</h3>
       <FilterButton
-        handler={() => handler("economics")}
-        FilterName="Economics"
+        handler={() => handler("programming")}
+        FilterName="Programming"
         FilterValue={activeCategories.economics}
       />
       <FilterButton
@@ -87,8 +87,8 @@ const LibraryPage = ({
         FilterValue={activeCategories.psychology}
       />
       <FilterButton
-        handler={() => handler("sociology")}
-        FilterName="Sociology"
+        handler={() => handler("relationship")}
+        FilterName="Relationship"
         FilterValue={activeCategories.sociology}
       />
       <FilterButton
@@ -102,8 +102,8 @@ const LibraryPage = ({
         FilterValue={activeCategories.people}
       />
       <FilterButton
-        handler={() => handler("religion")}
-        FilterName="Religion"
+        handler={() => handler("life")}
+        FilterName="Life"
         FilterValue={activeCategories.religion}
       />
       <FilterButton

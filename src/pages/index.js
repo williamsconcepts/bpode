@@ -9,10 +9,9 @@ const IndexPage = () => (
     <h1>About the show</h1>
     <hr className="line" />
     <p className="introduction">
-      Hear This Idea is a podcast showcasing new thinking from the University of
-      Cambridge and beyond. It is hosted by two undergrad students, Fin and
-      Luca. Each episode is an in-depth interview where we ask academics to
-      explain their field and their research. Every episode also has an
+      BPODE is a podcast showcasing new thinking from Boo & Bae. It is hosted by two undergrad students, Will and
+      Presh. Each episode is an in-depth interview where we discuss and
+      explain our field and research. Every episode also has an
       accompanying write-up that we publish right here on our website.
       You can browse all our guests' reading recommendations on our <Link to="/library">library page</Link>. 
     </p>
@@ -33,7 +32,7 @@ const IndexPage = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Pocket Casts
+        Anchor Casts
       </a>
       <a
         className="listen"

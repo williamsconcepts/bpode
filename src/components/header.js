@@ -11,7 +11,7 @@ const Header = ({ siteTitle }) => {
     <header>
       <div className="menu-wrapper">
         <Link to="/" className="link-plain">
-          <h1 className="title">Hear This Idea</h1>
+          <h1 className="title">BPODE</h1>
         </Link>
         <Link to="/" className="push">
           About

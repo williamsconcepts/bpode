@@ -94,15 +94,15 @@ h3 {
   font-family: "Space Mono";
   font-weight: bold;
   font-size: 34px;
-  color: rgba(247, 210, 3, 0.966);
+  color: #23abe2;
   line-height: 92%;
 }
 ::selection {
   color: #444;
-  background: rgba(255, 227, 67, 0.82); /* WebKit/Blink Browsers */
+  background: #23abe2; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: rgba(255, 227, 67, 0.82); /* Gecko Browsers */
+  background: #23abe2; /* Gecko Browsers */
   color: #444;
 }
 header a {
@@ -197,7 +197,7 @@ h2 .date {
   flex-wrap: wrap;
 }
 .listen {
-  background: rgba(255, 227, 67, 0.82);
+  background: #23abe2;
   padding: 13px;
   margin: 13px;
   font-family: "Open Sans", sans-serif;
