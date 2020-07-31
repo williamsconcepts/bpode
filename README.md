@@ -2,7 +2,7 @@
 
 # Hear This Idea
 
-This is the website for a podcast called 'Hear This Idea'. You can view it at [hearthisidea.com](https://www.hearthisidea.com).
+This is the website for a podcast called 'Hear This Idea'. You can view it at [bpode.com](https://www.bpode.com).
 
 The site is built with [GatsbyJS](https://www.gatsbyjs.org/).
 

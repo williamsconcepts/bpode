@@ -28,7 +28,7 @@ Our write-ups help you delve deeper into the ideas discussed in the podcast, inc
 </div>
 ## Why care about charity cost-effectiveness?
 
-In our previous episodes on effective altruism, we have often talked about how vital "cause selection" is when trying to do good: [George Rosenfeld](https://hearthisidea.com/episodes/george) emphasised the importance of "counterfactual impact" when setting up MWA (e.g. How much money went to charity X compared to if we did not exist?); [Eve McCormick](https://hearthisidea.com/episodes/eve) explained the "ITN framework", which can be particularly useful when first thinking about how best your career can have a social impact.
+In our previous episodes on effective altruism, we have often talked about how vital "cause selection" is when trying to do good: [George Rosenfeld](https://bpode.com/episodes/george) emphasised the importance of "counterfactual impact" when setting up MWA (e.g. How much money went to charity X compared to if we did not exist?); [Eve McCormick](https://bpode.com/episodes/eve) explained the "ITN framework", which can be particularly useful when first thinking about how best your career can have a social impact.
 
 ### Expectations versus reality
 
