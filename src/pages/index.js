@@ -9,7 +9,7 @@ const IndexPage = () => (
     <h1>About the show</h1>
     <hr className="line" />
     <p className="introduction">
-      BPODE is a podcast showcasing new thinking from Boo & Bae. It is hosted by two undergrad students, Will and
+      BPODE is a podcast showcasing new thinking from Boo & Bae. It is hosted by two undergrads students, Will and
       Presh. Each episode is an in-depth interview where we discuss and
       explain our field and research. Every episode also has an
       accompanying write-up that we publish right here on our website.
