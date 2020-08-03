@@ -1,8 +1,8 @@
 <img src="static/hti-yellow.png" alt="HTI Header Image" width="200" height="200"  />
 
-# Hear This Idea
+# Daily Tips
 
-This is the website for a podcast called 'Hear This Idea'. You can view it at [bpode.com](https://www.bpode.com).
+This is the website for a podcast called 'BPODE'. You can view it at [bpode.com](https://www.bpode.com).
 
 The site is built with [GatsbyJS](https://www.gatsbyjs.org/).
 
@@ -16,5 +16,5 @@ The site is built with [GatsbyJS](https://www.gatsbyjs.org/).
 
 This thing is, and always will be, a work in progress! Any and all feedback is welcome — either through our [anonymous feedback form](https://forms.gle/TvDjN1f7wRgGokfy8), by emailing hello [at] hearthisidea [dot] com, or by filing an issue on GitHub.
 
-Made by [Fin Moorhouse](https://www.finmoorhouse.com/).
+Made by [williams](https://www.boobae.blog/).
 
