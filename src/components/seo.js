@@ -63,7 +63,7 @@ function SEO({ description, lang, meta, title, myFeaturedImage }) {
         },
         {
           name: `twitter:site`,
-          content: `@bpode`,
+          content: `@williamschuddy`,
         },
         {
           name: `twitter:creator`,

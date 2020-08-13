@@ -9,9 +9,9 @@ const IndexPage = () => (
     <h1>About the show</h1>
     <hr className="line" />
     <p className="introduction">
-      BPODE is a podcast showcasing new thinking from EBUBE. It is hosted by two undergrads students, Will and
-      Presh. You are about to experience something you never heard or seen before. In this show we will be having self-improvement
-      conversations with my Robot friends.
+      BPODE is a podcast showcasing new thinking from a web developer. It is hosted by two undergrads students, Will and
+      Presh. You are about to experience something you never heard or seen before. In this show we'll be having self-improvement
+      and self-development conversations with our Robot friends.
       You can browse all our guests' reading recommendations on our <Link to="/library">library page</Link>. 
     </p>
     <h2>Where to listen</h2>
@@ -31,7 +31,7 @@ const IndexPage = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Anchor Casts
+        Anchor Fm
       </a>
       <a
         className="listen"
@@ -55,16 +55,12 @@ const IndexPage = () => (
       If you would like to get in touch with the show to suggest a guest or
       leave feedback, you can fill in our{" "}
       <a
-        href="https://forms.gle/TvDjN1f7wRgGokfy8"
+        href="mailto:boobaeblog@gmail.com"
         target="_blank"
         rel="noopener noreferrer"
       >
         anonymous feedback form
       </a>{" "}
-      or just email us at{" "}
-      <span className="obfuscate">
-        hello<span></span>@bpode.com
-      </span>
       . You can also find us on Facebook and Twitter:
     </p>
     <div className="listen-container">

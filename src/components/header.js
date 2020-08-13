@@ -14,9 +14,9 @@ const Header = ({ siteTitle }) => {
           <h1 className="title">BPODE</h1>
         </Link>
         <Link to="/" className="push">
-          Hey!
+          {/* Hey! */}
         </Link>{" "}
-        <span className="menu-slash">/</span>{" "}
+        {/* <span className="menu-slash">/</span>{" "} */}
         <Link to="/episodes">Episodes</Link>
       </div>
     </header>

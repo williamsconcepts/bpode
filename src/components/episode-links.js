@@ -14,7 +14,7 @@ const EpisodeLinks = (props) => {
 
           <a className = "listen listen-link" href={props.spotify || "https://open.spotify.com/show/4e2OBUBo3pc4Y41RwFakT4"} target="_blank" rel="noopener noreferrer">Spotify</a> 
 
-          <a className = "listen listen-link" href={props.google || "https://pca.st/gk7xambi"} target="_blank" rel="noopener noreferrer">Pocket Cast</a> 
+          <a className = "listen listen-link" href={props.apple || "https://podcasts.apple.com/us/podcast/daily-tips/id1524537916"} target="_blank" rel="noopener noreferrer">Apple podcasts</a> 
 
           <a className = "listen listen-link" href={props.google || "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDAyZjMwMC9wb2RjYXN0L3Jzcw=="} target="_blank" rel="noopener noreferrer">Google Podcast</a> 
           
