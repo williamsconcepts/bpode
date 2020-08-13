@@ -9,10 +9,9 @@ const IndexPage = () => (
     <h1>About the show</h1>
     <hr className="line" />
     <p className="introduction">
-      BPODE is a podcast showcasing new thinking from Boo & Bae. It is hosted by two undergrads students, Will and
-      Presh. Each episode is an in-depth interview where we discuss and
-      explain our field and research. Every episode also has an
-      accompanying write-up that we publish right here on our website.
+      BPODE is a podcast showcasing new thinking from EBUBE. It is hosted by two undergrads students, Will and
+      Presh. You are about to experience something you never heard or seen before. In this show we will be having self-improvement
+      conversations with my Robot friends.
       You can browse all our guests' reading recommendations on our <Link to="/library">library page</Link>. 
     </p>
     <h2>Where to listen</h2>
@@ -36,11 +35,11 @@ const IndexPage = () => (
       </a>
       <a
         className="listen"
-        href="https://www.breaker.audio/meet-boobae"
+        href="https://podcasts.apple.com/us/podcast/daily-tips/id1524537916"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Beaker Podcasts
+        Apple Podcasts
       </a>
       <a
         className="listen"
@@ -71,7 +70,7 @@ const IndexPage = () => (
     <div className="listen-container">
       <a
         className="listen"
-        href="https://www.facebook.com/bpode"
+        href="https://www.facebook.com/boobaeblog"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -79,7 +78,7 @@ const IndexPage = () => (
       </a>
       <a
         className="listen"
-        href="https://twitter.com/bpode"
+        href="https://twitter.com/williamschuddy"
         target="_blank"
         rel="noopener noreferrer"
       >

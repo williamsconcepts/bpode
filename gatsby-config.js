@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `BPODE`,
-    description: `New thinking from top academics and beyond.`,
+    description: `New thinking from top and beyond.`,
     author: `Will and Presh`,
     url:`https://www.bpode.com`,
-    twitterUsername: `@bpode`,
+    twitterUsername: `@williamschuddy`,
     image: "/meta-image.jpg",
   },
   plugins: [

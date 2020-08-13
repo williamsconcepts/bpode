@@ -1,5 +1,7 @@
 <img src="static/hti-yellow.png" alt="HTI Header Image" width="200" height="200"  />
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce1c0d0a-01b4-4f7a-9992-db7e3c50d6dc/deploy-status)](https://app.netlify.com/sites/bpode/deploys)
+
 # Daily Tips
 
 This is the website for a podcast called 'BPODE'. You can view it at [bpode.com](https://www.bpode.com).
